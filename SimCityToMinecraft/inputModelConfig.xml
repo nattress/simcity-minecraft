@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModelData>
+    <!-- North-South road -->
+    <Model id="29">
+        <Corner1 x="0" y="4" z="-24" />
+        <Corner2 x="19" y="4" z="-5" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- East-West road -->
+    <Model id="30">
+        <Corner1 x="0" y="4" z="0" />
+        <Corner2 x="19" y="4" z="19" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- Corner road -->
+    <Model id="35">
+        <Corner1 x="0" y="4" z="46" />
+        <Corner2 x="19" y="11" z="65" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <Model id="36">
+        <Corner1 x="23" y="4" z="46" />
+        <Corner2 x="42" y="11" z="65" />
+    </Model>
+    <Model id="37">
+        <Corner1 x="46" y="4" z="46" />
+        <Corner2 x="65" y="11" z="65" />
+    </Model>
+    <Model id="38">
+        <Corner1 x="69" y="4" z="46" />
+        <Corner2 x="88" y="11" z="65" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- T junction road -->
+    <Model id="39">
+        <Corner1 x="0" y="4" z="69" />
+        <Corner2 x="19" y="11" z="88" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <Model id="40">
+        <Corner1 x="23" y="4" z="69" />
+        <Corner2 x="42" y="11" z="88" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <Model id="41">
+        <Corner1 x="46" y="4" z="69" />
+        <Corner2 x="65" y="11" z="88" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <Model id="42">
+        <Corner1 x="70" y="4" z="69" />
+        <Corner2 x="89" y="11" z="88" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- 4 way intersection -->
+    <Model id="43">
+        <Corner1 x="0" y="4" z="23" />
+        <Corner2 x="19" y="11" z="42" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- Power lines crossing over road -->
+    <Model id="67">
+        <Corner1 x="23" y="4" z="92" />
+        <Corner2 x="42" y="12" z="111" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <Model id="68">
+        <Corner1 x="0" y="4" z="92" />
+        <Corner2 x="19" y="12" z="111" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- Small Park -->
+    <Model id="13">
+        <Corner1 x="0" y="4" z="-88" />
+        <Corner2 x="19" y="14" z="-69" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Buildings -->
+    <!-- Lower class home 1 -->
+    <Model id="112">
+        <Corner1 x="0" y="4" z="119" />
+        <Corner2 x="19" y="11" z="138" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- Lower class home 2 -->
+    <Model id="113">
+        <Corner1 x="23" y="4" z="119" />
+        <Corner2 x="42" y="11" z="138" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- Lower class home 3 -->
+    <Model id="114">
+        <Corner1 x="0" y="4" z="119" />
+        <Corner2 x="19" y="11" z="138" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    <!-- Lower class home 4 -->
+    <Model id="115">
+        <Corner1 x="0" y="4" z="119" />
+        <Corner2 x="19" y="11" z="138" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Middle class home 1 -->
+    <Model id="116">
+      <Corner1 x="23" y="4" z="119" />
+      <Corner2 x="42" y="11" z="138" />
+      <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Middle class home 2 -->
+    <Model id="117">
+      <Corner1 x="23" y="4" z="119" />
+      <Corner2 x="42" y="11" z="138" />
+      <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Middle class home 3 -->
+    <Model id="118">
+      <Corner1 x="23" y="4" z="119" />
+      <Corner2 x="42" y="11" z="138" />
+      <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Middle class home 4 -->
+    <Model id="119">
+      <Corner1 x="23" y="4" z="119" />
+      <Corner2 x="42" y="11" z="138" />
+      <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Luxury class home 1 -->
+    <Model id="120">
+      <Corner1 x="23" y="4" z="119" />
+      <Corner2 x="42" y="11" z="138" />
+      <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Luxury class home 2 -->
+    <Model id="121">
+      <Corner1 x="23" y="4" z="119" />
+      <Corner2 x="42" y="11" z="138" />
+      <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Luxury class home 3 -->
+    <Model id="122">
+      <Corner1 x="23" y="4" z="119" />
+      <Corner2 x="42" y="11" z="138" />
+      <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+
+    <!-- Luxury class home 4 -->
+    <Model id="123">
+      <Corner1 x="23" y="4" z="119" />
+      <Corner2 x="42" y="11" z="138" />
+      <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+    
+    <!-- Natural Gas Plant -->
+    <Model id="201">
+        <Corner1 x="101" y="4" z="69" />
+        <Corner2 x="180" y="34" z="148" />
+        <GroundLevelOffset>0</GroundLevelOffset>
+    </Model>
+</ModelData>
